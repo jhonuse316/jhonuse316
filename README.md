@@ -18,9 +18,6 @@ const jhonuse316: UserProfile = {
 };
 ```
 
-You can find me:
-  [linkedin] {https://linkedin.com/li/JhonUseche}
-
 <!--
 **jhonuse316/jhonuse316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
